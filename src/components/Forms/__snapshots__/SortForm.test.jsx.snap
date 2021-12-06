@@ -4,6 +4,17 @@ exports[`testing my filter 1`] = `
 Array [
   <select
     aria-label="sort"
-  />,
+  >
+    <option
+      value="asc"
+    >
+      ASC
+    </option>
+    <option
+      value="desc"
+    >
+      DESC
+    </option>
+  </select>,
 ]
 `;

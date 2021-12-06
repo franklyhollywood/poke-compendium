@@ -6,8 +6,8 @@ export default function Controls({
 	types,
 	setSelectedType,
 	selectedType,
-	sortPokemon,
-	setSortPokemon,
+	sortPoke,
+	setSortPoke,
 }) {
 	return (
 		<div>
@@ -16,7 +16,7 @@ export default function Controls({
 				setSelectedType={setSelectedType}
 				selectedType={selectedType}
 			/>
-			<SortForm sortPokemon={sortPokemon} setSortPokemon={setSortPokemon} />
+			<SortForm sortPokemon={sortPoke} setSortPoke={setSortPoke} />
 		</div>
 	);
 }

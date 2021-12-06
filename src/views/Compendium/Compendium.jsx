@@ -51,7 +51,7 @@ export default function Compendium() {
 	}, [selectedType, sortPoke]);
 
 	if (loading) {
-		return <h1>You are waiting....</h1>;
+		return <h1>You be waiting....</h1>;
 	}
 
 	return (
