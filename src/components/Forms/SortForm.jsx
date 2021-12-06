@@ -1,4 +1,4 @@
-export default function SortForm(sortPoke, setSortPoke) {
+export default function SortForm({ sortPoke, setSortPoke }) {
 	return (
 		<div>
 			<select
