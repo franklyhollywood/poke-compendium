@@ -1,0 +1,30 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`testing my filter 1`] = `
+Array [
+  <select
+    aria-label="dropdown"
+  >
+    <option
+      value="all"
+    >
+      All
+    </option>
+    <option
+      value="fire"
+    >
+      fire
+    </option>
+    <option
+      value="bug"
+    >
+      bug
+    </option>
+    <option
+      value="water"
+    >
+      water
+    </option>
+  </select>,
+]
+`;

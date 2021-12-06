@@ -1,0 +1,31 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`sort 1`] = `
+<div
+  aria-label="pokemon"
+>
+  <p>
+    Name: 
+    Pikachu
+  </p>
+  <p>
+    Health Points: 
+    23
+  </p>
+  <p>
+    Ability: 
+    compound-eyes
+  </p>
+  <p>
+    Egg Group: 
+    bug
+  </p>
+  <p>
+    Pokebase: 
+    butterfree
+  </p>
+  <img
+    alt="Pikachu"
+  />
+</div>
+`;

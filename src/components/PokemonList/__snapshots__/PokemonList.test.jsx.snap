@@ -1,0 +1,62 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`testing my lists 1`] = `
+<ul
+  aria-label="list"
+>
+  <div
+    aria-label="pokemon"
+  >
+    <p>
+      Name: 
+      pikachu
+    </p>
+    <p>
+      Health Points: 
+      60
+    </p>
+    <p>
+      Ability: 
+      compound-eyes
+    </p>
+    <p>
+      Egg Group: 
+      bug
+    </p>
+    <p>
+      Pokebase: 
+      butterfree
+    </p>
+    <img
+      alt="pikachu"
+    />
+  </div>
+  <div
+    aria-label="pokemon"
+  >
+    <p>
+      Name: 
+      venusaur-mega
+    </p>
+    <p>
+      Health Points: 
+      80
+    </p>
+    <p>
+      Ability: 
+      compound-eyesthick-fat
+    </p>
+    <p>
+      Egg Group: 
+      monster
+    </p>
+    <p>
+      Pokebase: 
+      venusaur
+    </p>
+    <img
+      alt="venusaur-mega"
+    />
+  </div>
+</ul>
+`;

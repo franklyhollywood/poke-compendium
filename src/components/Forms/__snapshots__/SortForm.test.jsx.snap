@@ -1,0 +1,20 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`testing my filter 1`] = `
+Array [
+  <select
+    aria-label="sort"
+  >
+    <option
+      value="asc"
+    >
+      ASC
+    </option>
+    <option
+      value="desc"
+    >
+      DESC
+    </option>
+  </select>,
+]
+`;
